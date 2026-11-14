@@ -100,7 +100,7 @@
     "@vitejs/plugin-react": "^5.1.1",
     "app-builder-lib": "^26.8.1",
     "daisyui": "^5.5.14",
-    "electron": "^39.2.6",
+    "electron": "^45.3.2",
     "electron-builder": "^26.8.1",
     "electron-vite": "^5.0.0",
     "eslint": "^9.39.1",
